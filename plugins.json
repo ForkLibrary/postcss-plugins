@@ -386,8 +386,8 @@
     "author": "andyjansson"
   },
   {
-    "name": "postcss-local-constants",
-    "url": "https://github.com/macropodhq/postcss-local-constants",
+    "name": "postcss-constants",
+    "url": "https://github.com/macropodhq/postcss-constants",
     "description": "Adds support for localized constants.",
     "tags": [
       "extensions"
@@ -1216,14 +1216,14 @@
     "author": "MohammadYounes"
   },
   {
-    "name": "postcss-bem-linter",
-    "url": "https://github.com/necolas/postcss-bem-linter",
+    "name": "bem-linter",
+    "url": "https://github.com/postcss/bem-linter",
     "description": "Lints CSS for conformance to SUIT CSS methodology.",
     "tags": [
       "analysis",
       "debug"
     ],
-    "author": "necolas"
+    "author": "postcss"
   },
   {
     "name": "postcss-cssstats",
@@ -2046,7 +2046,7 @@
     "author": "bmds"
   },
   {
-    "name": "Postcss-position-alt",
+    "name": "postcss-position-alt",
     "description": "that adds shorthand to position declarations.",
     "url": "https://github.com/sylvainbaronnet/postcss-position-alt",
     "tags": [
@@ -2064,5 +2064,260 @@
       "optimizations"
     ],
     "author": "stephenway"
+  },
+  {
+    "name": "postcss-select",
+    "description": "filter CSS based on a given list of selectors",
+    "url": "https://github.com/johnotander/postcss-select",
+    "tags": [
+      "other"
+    ],
+    "author": "johnotander"
+  },
+  {
+    "name": "postcss-assets-rebase",
+    "description": "rebases assets from url()",
+    "url": "https://github.com/devex-web-frontend/postcss-assets-rebase",
+    "tags": [
+      "images"
+    ],
+    "author": "devex-web-frontend"
+  },
+  {
+    "name": "postcss-regexp-detect",
+    "description": "search for regexp in css declarations",
+    "url": "https://github.com/devex-web-frontend/postcss-regexp-detect",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "author": "devex-web-frontend"
+  },
+  {
+    "name": "postcss-layout",
+    "description": "Plugin for some common CSS layout patterns and a Grid system.",
+    "url": "https://github.com/arccoza/postcss-layout",
+    "tags": [
+      "extensions",
+      "grids"
+    ],
+    "author": "arccoza"
+  },
+  {
+    "name": "postcss-spanish-stylesheets",
+    "description": "Spanish Style Sheets.",
+    "url": "https://github.com/ismamz/postcss-spanish-stylesheets",
+    "tags": [
+      "fun",
+      "other"
+    ],
+    "author": "ismamz"
+  },
+  {
+    "name": "postcss-rgba-hex",
+    "description": "converts rgba values to hex analogues",
+    "url": "https://github.com/XOP/postcss-rgba-hex",
+    "tags": [
+      "color"
+    ],
+    "author": "XOP"
+  },
+  {
+    "name": "postcss-time-machine",
+    "description": "Fix mistakes in the design of CSS itself.",
+    "url": "https://github.com/jonathantneal/postcss-time-machine",
+    "tags": [
+      "fallbacks",
+      "future",
+      "fun"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-andalusian-stylesheets",
+    "description": "Andalusian Style Sheets, Olé!.",
+    "url": "https://github.com/bameda/postcss-andalusian-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "bameda"
+  },
+  {
+    "name": "postcss-shades-of-gray",
+    "description": "helps keeping grayscale colors consistent to a gray palette.",
+    "url": "https://github.com/laureanoarcanio/postcss-shades-of-gray",
+    "tags": [
+      "color"
+    ],
+    "author": "laureanoarcanio"
+  },
+  {
+    "name": "postcss-import-url",
+    "description": "inlines remote files.",
+    "url": "https://github.com/unlight/postcss-import-url",
+    "tags": [
+      "optimizations"
+    ],
+    "author": "unlight"
+  },
+  {
+    "name": "mdcss",
+    "description": "Easily create and maintain style guides using CSS comments.",
+    "url": "https://github.com/jonathantneal/mdcss",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "level4",
+    "description": "Use W3C CSS Level 4 Modules with PostCSS",
+    "url": "https://github.com/stephenway/level4",
+    "tags": [
+      "future"
+    ],
+    "author": "stephenway"
+  },
+  {
+    "name": "postcss-svg-fragments",
+    "description": "Use SVG fragments in CSS URLs.",
+    "url": "https://github.com/jonathantneal/postcss-svg-fragments",
+    "tags": [
+      "svg"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-ifrared-filter",
+    "description": "an infrared photography filter for CSS",
+    "url": "https://github.com/jonathantneal/postcss-infrared-filter",
+    "tags": [
+      "color",
+      "extensions",
+      "images"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-raw",
+    "description": "output nodes inside the @raw at-rule, untouched by other plugins in the plugin stack.",
+    "url": "https://github.com/MadLittleMods/postcss-raw",
+    "tags": [
+      "other"
+    ],
+    "author": "MadLittleMods"
+  },
+  {
+    "name": "postcss-reference",
+    "description": "for referencing selectors' rules from CSS files and defined rulesets.",
+    "url": "https://github.com/dehuszar/postcss-reference",
+    "tags": [
+      "other"
+    ],
+    "author": "dehuszar"
+  },
+  {
+    "name": "postcss-logical-properties",
+    "description": "to transform start/end properties to left/right depending on LTR or RTL writing directions of the document",
+    "url": "https://github.com/ahmadalfy/postcss-logical-properties",
+    "tags": [
+      "extensions",
+      "other"
+    ],
+    "author": "ahmadalfy"
+  },
+  {
+    "name": "postcss-filter-gradient",
+    "description": "adds gradient filter for the old IE.",
+    "url": "https://github.com/yuezk/postcss-filter-gradient",
+    "tags": [
+      "fallbacks"
+    ],
+    "author": "yuezk"
+  },
+  {
+    "name": "postcss-short-data",
+    "description": "Write shorthand data attribute selectors in CSS.",
+    "url": "https://github.com/jonathantneal/postcss-short-data",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-space-start-attrs",
+    "description": "Target attributes beginning with a certain value in a space separated list.",
+    "url": "https://github.com/jonathantneal/postcss-space-start-attrs",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-apply",
+    "description": "Enables custom properties sets references",
+    "url": "https://github.com/pascalduez/postcss-apply",
+    "tags": [
+      "future"
+    ],
+    "author": "pascalduez"
+  },
+  {
+    "name": "postcss-cachebuster",
+    "description": "adds version parameter to images and fonts",
+    "url": "https://github.com/glebmachine/postcss-cachebuster",
+    "tags": [
+      "optimizations",
+      "other"
+    ],
+    "author": "glebmachine"
+  },
+  {
+    "name": "postcss-hidden",
+    "description": "allows easy ways to hide things.",
+    "url": "https://github.com/lukelarsen/postcss-hidden",
+    "tags": [
+      "other"
+    ],
+    "author": "lukelarsen"
+  },
+  {
+    "name": "css-property-sorter",
+    "description": "sorts CSS properties fast and automatically in a certain order.",
+    "url": "https://github.com/Siilwyn/css-property-sorter",
+    "tags": [
+      "other"
+    ],
+    "author": "Siilwyn"
+  },
+  {
+    "name": "postcss-modules",
+    "description": "allows to use CSS Modules everywhere.",
+    "url": "https://github.com/outpunk/postcss-modules",
+    "tags": [
+      "other"
+    ],
+    "author": "outpunk"
+  },
+  {
+    "name": "postcss-animation",
+    "description": "PostCSS plugin that adds `@keyframes` from animate.css.",
+    "url": "https://github.com/zhouwenbin/postcss-animation",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "zhouwenbin"
+  },
+  {
+    "name": "postcss-chinese-stylesheets",
+    "description": "Chinese Style Sheets.",
+    "url": "https://github.com/zhouwenbin/postcss-chinese-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "zhouwenbin"
   }
 ]

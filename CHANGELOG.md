@@ -1,3 +1,75 @@
+### v1.5.27
+> *(Nov 28th/2015)*
+- Adds [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)
+- Adds [`postcss-animation`](https://github.com/zhouwenbin/postcss-animation)
+- Adds [`postcss-modules`](https://github.com/outpunk/postcss-modules)
+
+### v1.5.26
+> *(Nov 23rd/2015)*
+- Adds [`css-property-sorter`](https://github.com/Siilwyn/css-property-sorter)
+- Adds [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)
+- Adds [`postcss-hidden`](https://github.com/lukelarsen/postcss-hidden)
+
+### v1.5.25
+> *(Nov 17th/2015)*
+- Adds [`postcss-apply`](https://github.com/pascalduez/postcss-apply)
+
+### v1.5.24
+> *(Nov 16th/2015)*
+- Adds [`postcss-short-data`](https://github.com/jonathantneal/postcss-short-data)
+- Adds [`postcss-space-start-attrs`](https://github.com/jonathantneal/postcss-space-start-attrs)
+
+### v1.5.23
+> *(Nov 14th/2015)*
+- Adds [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)
+
+### v1.5.22
+> *(Nov 7th/2015)*
+- Adds [`level4`](https://github.com/stephenway/level4)
+- Adds [`postcss-svg-fragments`](https://github.com/jonathantneal/postcss-svg-fragments)
+- Adds [`postcss-ifrared-filter`](https://github.com/jonathantneal/postcss-infrared-filter)
+- Adds [`postcss-raw`](https://github.com/MadLittleMods/postcss-raw)
+- Adds [`postcss-reference`](https://github.com/dehuszar/postcss-reference)
+- Adds [`postcss-logical-properties`](https://github.com/ahmadalfy/postcss-logical-properties)
+
+### v1.5.21
+> *(Nov 3rd/2015)*
+- Adds [`mdcss`](https://github.com/jonathantneal/mdcss)
+
+### v1.5.20
+> *(Nov 1st/2015)*
+- Adds [`postcss-import-url`](https://github.com/unlight/postcss-import-url)
+
+### v1.5.19
+> *(Oct 29th/2015)*
+- Adds [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)
+
+### v1.5.18
+> *(Oct 29th/2015)*
+- Adds [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)
+
+### v1.5.17
+> *(Oct 28th/2015)*
+- Adds [`postcss-time-machine`](https://github.com/jonathantneal/postcss-time-machine)
+
+### v1.5.16
+> *(Oct 27th/2015)*
+- Adds [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
+- Adds [`postcss-spanish-stylesheets`](https://github.com/ismamz/postcss-spanish-stylesheets)
+
+### v1.5.15
+> *(Oct 26th/2015)*
+- Adds [`postcss-layout`](https://github.com/arccoza/postcss-layout)
+
+### v1.5.14
+> *(Oct 22nd/2015)*
+- Adds [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)
+- Adds [`postcss-assets-rebase`](https://github.com/devex-web-frontend/postcss-assets-rebase)
+
+### v1.5.13
+> *(Oct 22nd/2015)*
+- Adds [`postcss-select`](https://github.com/johnotander/postcss-select)
+
 ### v1.5.12
 > *(Oct 21st/2015)*
 - Adds [`postcss-contrast`](https://github.com/stephenway/postcss-contrast)
